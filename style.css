@@ -2,10 +2,26 @@
     margin: 0;
     padding:0 ;
 }
+.boder{
 
+border: 2px solid #000000;
+width: 75%;
+margin-top: 50px;
+/* margin-left: 130px; */
+padding:15px 15px 15px 15px;
+}
+.one{
+    /* margin: 30px 0px 0px 0px; */
+    width: 80%;
+    border: 2px solid #000000;
+    /* margin-left: 130px; */
+}
 .ph-a{
 background-color: rgb(16, 16, 217);
 }
 .ph-b{
 background-color: rgb(6, 22, 250);
+}
+.ph-c{
+    background-color: rgb(0, 21, 255);
 }
